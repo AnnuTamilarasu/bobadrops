@@ -1,0 +1,20 @@
+*{
+    text-align: center;
+    background-color: rgb(244, 235, 230);
+}
+.content{
+    width: 100vh;
+    margin-left: 20vh;
+    margin-right: 20vh;
+    text-align: center;
+    border-color: rgb(212, 146, 84);
+    border-width: 5px;
+    border-style: dashed;
+    border-radius: 15px;
+    background-color: rgb(244, 235, 230);
+    font-family: 'Lucida Sans';
+}
+img{
+    width: 80vh;
+    border-radius: 15px;
+}
